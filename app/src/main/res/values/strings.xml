@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Heximal</string>
+    <string name="value">value</string>
+    <string name="let_apos_s_convert">Let\'s convert</string>
+    <string name="to">to</string>
+    <string name="in">in</string>
+    <string name="go">GO!</string>
+    <string name="seehist">see history</string>
+
+    <string-array name="choices_array">
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Hexadecimal</item>
+    </string-array>
+</resources>
